@@ -1,4 +1,4 @@
-#Process_css.py
+# Process_css.py
 This Python script is designed to process a CSV file and separate it into two files: one for “clean” data and one for “unclean” data. The data is considered “clean” if the number of columns in a row matches the number of columns in the header row. If not, the data is considered “unclean”. Here’s a step-by-step breakdown:
 
 Open Files: The script opens the input file in read mode and the two output files in write mode.
